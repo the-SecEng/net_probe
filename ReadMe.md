@@ -26,8 +26,5 @@ Net Probe can scan devices on multiple subnets, including <strong>192.168.0.0/16
 <br>
 Net Probe also generates a JSON file with the scan results, which can be used for further analysis.
 <hr>
-<h1> Disclaimer </h1>
-<strong>Net Probe is intended to be used for white hat security testing and should only be used on networks that you have permission to test. Misusing Net Probe or using it for illegal activities is strictly prohibited.</strong>
-<hr>
 <h2>License</h2>
 <strong>This program is licensed under the Apache 2.0 License. See the NOTICE and LICENSE file for more information.</strong>
